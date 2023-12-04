@@ -1,0 +1,12 @@
+Collecting py-cpuinfo
+  Using cached py-cpuinfo-8.0.0.tar.gz (99 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Building wheels for collected packages: py-cpuinfo
+  Building wheel for py-cpuinfo (setup.py): started
+  Building wheel for py-cpuinfo (setup.py): finished with status 'done'
+  Created wheel for py-cpuinfo: filename=py_cpuinfo-8.0.0-py3-none-any.whl size=22243 sha256=755cdfe2bf6a246908332412fffc8a603cbd32ff9b000cfbea5417e93e407801
+  Stored in directory: c:\users\sri\appdata\local\pip\cache\wheels\d2\f1\1f\041add21dc9c4220157f1bd2bd6afe1f1a49524c3396b94401
+Successfully built py-cpuinfo
+Installing collected packages: py-cpuinfo
+Successfully installed py-cpuinfo-8.0.0

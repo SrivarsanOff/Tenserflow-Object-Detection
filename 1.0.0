@@ -1,0 +1,2 @@
+Requirement already satisfied: absl-py in e:\tenserflow object detection\tfodcourse\tfod\lib\site-packages (0.15.0)
+Requirement already satisfied: six in e:\tenserflow object detection\tfodcourse\tfod\lib\site-packages (from absl-py) (1.15.0)
